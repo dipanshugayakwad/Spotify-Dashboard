@@ -18,10 +18,8 @@ This Power BI dashboard serves as a powerful tool to understand your Spotify lis
 
 1. **Prerequisites:** You need Power BI Desktop (for local use) or Power BI Service (for online sharing) to interact with the dashboard.
 
-2. **Data Source:** The dashboard is designed to connect with your personal Spotify data. To load your data, follow these steps:
-   - Export your Spotify listening history data as a CSV or Excel file.
-   - Ensure your data columns match the following structure:
-
+2. **Data Source:** You will get the data from Kaggle itself aor you can use your real time dataset of Spotify.
+-To get the data link , refer the file "Dataset Link" and download it from their.
 
 - Open Power BI Desktop and choose "Get Data."
 - Select your data source and follow the prompts to load the data.
@@ -49,7 +47,7 @@ This Power BI dashboard serves as a powerful tool to understand your Spotify lis
 - Add new visuals, rearrange elements, or modify colors and formatting.
 
 ## Screenshots 📸
-For screenshot of Spotify Dashboard please click on - Dashbaord.png file
+For screenshot of Spotify Dashboard please click on - "Dashbaord.png file"
 
 ## Contributing 🤝
 
