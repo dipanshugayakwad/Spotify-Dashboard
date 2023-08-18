@@ -51,6 +51,9 @@ This Power BI dashboard serves as a powerful tool to understand your Spotify lis
 ## Screenshots 📸
 For screenshot of Spotify Dashboard please click on - "Dashbaord.png file"
 
+-Or you can refer the dashboard from the given link 
+ https://drive.google.com/file/d/1i8t7ZvRQ4ESdtNwCN91TWxbnpuAPwANU/view?usp=sharing
+
 ## Contributing 🤝
 
 Contributions are generally not applicable in this context, as the dashboard is tailored for individual use. However, feel free to fork the project and adapt it to your specific needs.
