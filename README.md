@@ -18,7 +18,7 @@ This Power BI dashboard serves as a powerful tool to understand your Spotify lis
 
 1. **Prerequisites:** You need Power BI Desktop (for local use) or Power BI Service (for online sharing) to interact with the dashboard.
 
-2. **Data Source:** You will get the data from Kaggle itself aor you can use your real time dataset of Spotify.
+2. **Data Source:** You will get the data from Kaggle itself or you can use your real time dataset of Spotify.
 -To get the data link , refer the file "Dataset Link" and download it from their.
 
 - Open Power BI Desktop and choose "Get Data."
