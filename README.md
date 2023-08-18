@@ -49,8 +49,7 @@ This Power BI dashboard serves as a powerful tool to understand your Spotify lis
 - Add new visuals, rearrange elements, or modify colors and formatting.
 
 ## Screenshots 📸
-
-![Dashboard Screenshot](dashboard_screenshot.png)
+For screenshot of Spotify Dashboard please click on - Dashbaord.png file
 
 ## Contributing 🤝
 
